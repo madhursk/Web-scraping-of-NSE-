@@ -1,5 +1,6 @@
 # Web-scraping-of-NSE-
 Web scraping of NSE(stock exchange) using Selenium
+
 The requirements for this program to work is : Selenium, Chrome webdriver, xlwt.
 Installation:
 pip install selenium
